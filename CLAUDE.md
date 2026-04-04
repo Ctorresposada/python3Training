@@ -36,3 +36,12 @@ This is a Python learning/training repository. Each `.py` file is a standalone s
 | Error handling | `errorHandling.py` (reads `acronimos.txt`) |
 
 Scripts are independent and self-contained unless noted above. There are no shared modules, packages, or `__init__.py` files.
+
+
+  ## Style Rules
+  - Add a comment explaining each function
+  - Keep scripts under 500 lines
+
+  ## Git Workflow
+  - Always create a feature branch, never commit directly to main
+  - Branch naming: feature/, hotfix/, fix/
